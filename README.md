@@ -282,12 +282,6 @@ skill-swap-platform/
 
 🔗 https://app.excalidraw.com/l/65VNwvy7c4X/8bM86GXnnUN
 
-## 👨‍💻 Team – *Comet*
-
-- 👩‍💻 **Rashi Agrawal** - Frontend Developer
-- 👨‍💻 **Ujjawal Panday** - Backend Developer  
-- 👩‍💻 **Humairah Shaik** - UI/UX Designer
-- 👨‍💻 **Pankaj Yadav** - Full Stack Developer
 
 > *We believe in building collaborative tools that create real impact.*
 
